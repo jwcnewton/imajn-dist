@@ -1,0 +1,15 @@
+{
+    "name": "dist",
+    "version": "1.0.0",
+    "description": "",
+    "main": "inline.bundle.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Jonathan Newton",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.3"
+    }
+}
